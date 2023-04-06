@@ -27,3 +27,6 @@ fig1 = px.scatter(gapminder, x='gdpPercap', y='lifeExp', color='continent',hover
 fig1.update_layout(width=900)
 st.header("Demo of an animated plot")
 st.write(fig1)
+
+#Zane Falcao
+#rehans
